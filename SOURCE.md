@@ -48,7 +48,7 @@ IMAGE 3 FILE
 
 IMAGE 3 ALT TEXT
 
-`The roads of Riyadh`
+``
 
 SMALLER SUB HEAD
 
